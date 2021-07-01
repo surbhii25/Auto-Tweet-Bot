@@ -9,3 +9,5 @@ This project uses Python 3.9.4, Selenium library and Chrome Web Driver.
 If you have pip on your system, you can simply install Selenium by:
 pip install selenium
 
+https://user-images.githubusercontent.com/81489001/124083996-26f75a80-da6c-11eb-9f79-44e14399b7ec.mp4
+
