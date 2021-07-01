@@ -1,4 +1,4 @@
-# Auto_Tweet_Bot
+# AUTO TWEET BOT
 
 We are seeking automation in everything, from form autofill to self-driving cars, humans have come a long way using automated processes. Python scripts come very handy in generating automated tools and tasks. The Selenium package is used to automate web browser interaction from Python. 
 
